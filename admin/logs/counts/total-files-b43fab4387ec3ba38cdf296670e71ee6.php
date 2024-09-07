@@ -1,0 +1,1 @@
+{"filename":"b43fab4387ec3ba38cdf296670e71ee6","date":"2024090520","total_time":"2024-09-05 20:28:09","dirnum":9,"filenum":30,"usage_space":"39.85MB","todayUpload":2,"yestUpload":9}

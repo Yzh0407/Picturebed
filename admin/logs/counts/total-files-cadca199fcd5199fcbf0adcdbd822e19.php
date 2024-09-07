@@ -1,0 +1,1 @@
+{"filename":"cadca199fcd5199fcbf0adcdbd822e19","date":"2024090415","total_time":"2024-09-04 15:48:20","dirnum":4,"filenum":24,"usage_space":"30.01MB","todayUpload":9,"yestUpload":0}
