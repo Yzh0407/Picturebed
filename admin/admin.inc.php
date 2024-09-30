@@ -926,12 +926,10 @@ auto_delete(); //定时删除
                 <a href="https://icret.github.io/EasyImages2.0/#/./使用PicGo上传" target="_blank"><span class="label label-badge label-primary" data-toggle="tooltip" title="使用PicGo上传">PicGo</span></a>
                 <h6>开发支持</h6>
                 <p>
-                    <a href="https://png.cm/?demo" target="_blank"><span class="label label-badge label-primary" data-toggle="tooltip" title="演示地址"><i class="icon icon-external-link"></i> Demo</span></a>
                     <a href="<?php echo is_file(APP_ROOT . '/docs/index.html') ?  '../docs' : 'https://icret.github.io/EasyImages2.0/#/'; ?>" target="_blank"><span class="label label-badge label-primary" data-toggle="tooltip" title="使用手册"><i class="icon icon-book"></i> Manual</span></a>
                     <a href="https://t.me/Easy_Image" target="_blank"><span class="label label-badge label-primary" data-toggle="tooltip" title="EasyImage Telegram Group"><i class="icon icon-comments-alt"></i> Telegram</span></a>
                     <a href="https://github.com/icret/EasyImages2.0/discussions" target="_blank"><span class="label label-badge label-primary" data-toggle="tooltip" title="GitHub 社区"><i class="icon icon-comments-alt"></i> Discuss</span></a>
                     <span data-toggle="tooltip" title="当前版本"><button type="button" class="btn btn-sm btn-primary label label-badge label-primary" data-toggle="modal" data-moveable="true" ata-size="sm" data-scroll-inside="true" data-icon="heart" data-title="当前版本更新日志" data-custom="<pre style='background-color: rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 0);'><?php echo getVersion('name') . '<br/><br/>' . getVersion('body'); ?></pre>"><i class="icon icon-github"></i> <?php echo APP_VERSION; ?></button></span>
-                    <span data-toggle="tooltip" title="您的赞美是我开发的动力!"><button type="button" class="btn btn-sm btn-danger label label-badge label-danger" data-toggle="modal" data-moveable="true" data-size="sm" data-icon="heart" data-title="您的赞美是我开发的动力!" data-custom="<ul class='nav nav-tabs'><li class='active'><a data-tab href='#wechat'><i class='icon icon-wechat' style='color:#329d38;'> 微信</i></a></li><li><a data-tab href='#alipay'><i class='icon icon-zhifubao-square' style='color:#1970fc;'> 支付宝</i></a></li></ul><div class='tab-content'><div class='tab-pane active' id='wechat'><img src='../public/images/wechat.jpg'></div><div class='tab-pane' id='alipay'><img src='../public/images/alipay.jpg'></div></div>"><i class="icon icon-yen"></i><small>打赏开发者</small></button></span>
                 </p>
                 <h6>程序依赖</h6>
                 <p>
@@ -952,7 +950,7 @@ auto_delete(); //定时删除
                     <?php endif; ?>
                     <a href="https://github.com/icret/EasyImages2.0/blob/master/LICENSE" target="_blank"><span class="label label-badge" data-toggle="tooltip" title="开源许可证">GPL-2.0</span></a>
                 </p>
-                <p class="text-muted"><i class="icon icon-certificate"> EasyImage2.0简单图床构建于众多优秀的开源项目之上, 非常感谢这些项目!</i></p>
+                <p class="text-muted"><i class="icon icon-certificate"> 梦葉樱的图床!</i></p>
             </div>
             <div class="collapse" id="Ip2Region">
                 <div class="bg-primary with-padding">

@@ -121,7 +121,7 @@ if (isset($_POST['password']) and isset($_POST['user'])) {
     <div class="container">
         <div class="user singinBx">
             <div class="imgBx">
-                <img src="<?php echo $config['login_bg']; ?>" alt="简单图床登陆界面背景图" />
+                <img src="<?php echo $config['login_bg']; ?>" alt="登陆界面背景图" />
             </div>
             <div class="formBx">
                 <form class="form-horizontal" action="index.php" method="post" onsubmit="return md5_post()">
@@ -154,7 +154,7 @@ if (isset($_POST['password']) and isset($_POST['user'])) {
                     <p class="signup">已有账号？<a href="#" onclick="topggleForm();">登录</a></p>
                 </form>
             </div>
-            <div class="imgBx"><img src="<?php echo $config['login_bg']; ?>" alt="简单图床登陆界面背景图" />
+            <div class="imgBx"><img src="<?php echo $config['login_bg']; ?>" alt="登陆界面背景图" />
             </div>
         </div>
     </div>

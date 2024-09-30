@@ -1,0 +1,1 @@
+{"filename":"c6c6a2dc9aec2f1df86773f44bda53af","date":"2024092515","total_time":"2024-09-25 15:12:37","dirnum":1,"filenum":305,"usage_space":"1.83GB","todayUpload":0,"yestUpload":185}
